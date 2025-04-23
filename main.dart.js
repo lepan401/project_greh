@@ -74747,7 +74747,7 @@ var $async$qw=A.O(function(b,c){if(b===1)return A.P(c,r)
 while(true)switch(s){case 0:j={}
 if(B.c.na(a).length===0){s=1
 break}p.ao(new A.aam(p,a))
-o=A.fX("https://project-greh-server.onrender.com/api/endpoint")
+o=A.fX("https://project-greh-server.onrender.com/chat")
 n=t.N
 m=A.ag(["Content-Type","application/json"],n,n)
 s=3
